@@ -1,2 +1,2 @@
-# Campos-de-flujo-alrededor-de-perfiles-aerodin-micos
+# Campos-de-flujo-alrededor-de-perfiles-aerodinamicos
 Este proyecto tiene como objetivo aplicar técnicas de aprendizaje automático para construir un modelo subrogado capaz de predecir el campo de flujo de fluidos alrededor de un perfil aerodinámico 2D. Utilizará un conjunto de datos generado a partir de simulaciones CFD con variación en los parámetros aerodinámicos para entrenar y validar su modelo.
